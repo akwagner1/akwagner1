@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Information Security Lab</b>
+- <b>Learn Information Security</b>
   - [InfoSecLab](https://github.com/akwagner1/InfoSecLab)
 
 <h2> 🤳 Connect with me:</h2>
