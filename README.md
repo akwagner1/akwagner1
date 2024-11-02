@@ -1,7 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Andrew! Thanks for stopping by.</h1>
+
+<h2>👨‍💻 Projects:</h2>
+
+- <b>Information Security Lab</b>
+  - [InfoSecLab]([https://github.com/akwagner1/InfoSecLab])
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Andrew Wagner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/akwagner1
 
 <!--
-**akwagner1/akwagner1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
